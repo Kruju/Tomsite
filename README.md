@@ -70,9 +70,29 @@ The Life Meant to Live is my personal philosophical project where I share insigh
 ### Read My Texts
 Here you can find a collection of my writings. Click on any title to read the full text.
 <br>
-1. [Text Title 1](#)
-2. [Text Title 2](#)
-3. [Text Title 3](#)
+
+<details>
+<summary><b>Text Title 1</b></summary>
+<p>
+This is the full text for Text Title 1. It offers insights and perspectives on various aspects of life.
+</p>
+</details>
+
+<details>
+<summary><b>Text Title 2</b></summary>
+<p>
+This is the full text for Text Title 2. It delves into deep philosophical questions and reflections.
+</p>
+</details>
+
+<details>
+<summary><b>Text Title 3</b></summary>
+<p>
+This is the full text for Text Title 3. It explores ideas and concepts related to living a fulfilling life.
+</p>
+</details>
+
 <br><br>
 <a href="#projects">Back to Top</a>
 </details>
+
